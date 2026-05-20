@@ -1,6 +1,7 @@
 # Contributing to Simple Interest Calculator
 
 Thank you for your interest in contributing! We welcome contributions of all kinds — bug fixes, documentation improvements, new features, and more.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## Table of Contents
 
